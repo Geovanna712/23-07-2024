@@ -1,0 +1,14 @@
+h1{
+    color:rgb(171, 86, 204);
+}
+
+h2{
+    margin: 0px;
+}
+
+.time{
+    width: 400px; /* Largura da div de 400px fixos*/
+    border: solid black 1px;
+    padding:30px;
+    margin: 20px;
+}
